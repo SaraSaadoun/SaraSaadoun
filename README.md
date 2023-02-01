@@ -1,7 +1,8 @@
 <br>
 <h1 align="center">Hi &#128075;, I'm Sara Hamza ✨</h1>
-<p  align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F33083&vCenter=true&width=435&lines=Computer+Engineering+Student;ECPC+Finalist+;Competitive+Programmer" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;ECPC+Finalist+;Competitive+Programmer">
 </p>
 
 <h2 ><span style="font-size:30px;">&#127775; </span> About Me</h2>
