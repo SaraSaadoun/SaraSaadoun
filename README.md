@@ -18,7 +18,7 @@
 <br>
 🌠 On my way getting into Data Science & AI track
 <br>
-✨ Learning new things 😊✨
+✨ Learning ... 😊✨
 <br>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
