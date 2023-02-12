@@ -36,10 +36,11 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSaadoun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSaadoun&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraSaadoun&show_icons=true&theme=radical)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraSaadoun&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SaraSaadoun&show_icons=true&theme=radical)
 </div>
 
 
