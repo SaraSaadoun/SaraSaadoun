@@ -12,7 +12,7 @@
 <br>
 💥 competitive programmer on different platforms like Codeforces , LeetCode
 <br>
-📚 I've CS fundamentals (Data Structures , Algorithms, Databases, OS, ..❤️)
+📚 I've CS fundamentals (Data Structures , Algorithms, computer graphics, OS, ..❤️)
 <br>
 💻 Currently learning more about web development
 <br>
