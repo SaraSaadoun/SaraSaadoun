@@ -17,8 +17,7 @@
 💻 Currently learning more about web development
 <br>
 🌠 On my way getting into Data Science & AI track
-<br>
-✨ Learning ... 😊✨
+
 <br>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
