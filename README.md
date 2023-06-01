@@ -12,9 +12,9 @@
 <br>
 💥 competitive programmer on different platforms like Codeforces , LeetCode
 <br>
-💻 Currently learning more about web development
+💻 Interested in Backend Development (mainly using Node.js) and Software Engineering
 <br>
-🌠 On my way getting into Data Science & AI track
+🌠 ML and Data Science Enthusiast
 
 <br>
 
