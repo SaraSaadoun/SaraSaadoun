@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">Hi &#128075;, I'm Sara Hamza ✨</h1>
+<h1 align="center">Hello &#128075;, I'm Sara Hamza </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;ECPC+Finalist+;Competitive+Programmer">
@@ -8,13 +8,13 @@
 <h2 ><span style="font-size:30px;">&#127775; </span> About Me</h2>
 <br>
 <p >
-🎓 I'm a Computer Engineeing Student @ TU
+🎓 I'm a Computer Engineering Student @ TU.
 <br>
-💥 competitive programmer on different platforms like Codeforces , LeetCode
+💥 competitive programmer on different platforms such as Codeforces, and LeetCode.
 <br>
-💻 Interested in Backend Development (mainly using Node.js) and Software Engineering
+💻 Interested in Backend Development.
 <br>
-🌠 ML and Data Science Enthusiast
+🌠 ML and Data Science Enthusiast.
 
 <br>
 
