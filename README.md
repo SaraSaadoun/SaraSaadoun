@@ -2,7 +2,7 @@
 <h1 align="center">Hello &#128075;, I'm Sara Hamza </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;ECPC+Finalist+;Competitive+Programmer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;ACPC+Finalist;Competitive+Programmer">
 </p>
 
 <h2 ><span style="font-size:30px;">&#127775; </span> About Me</h2>
@@ -22,7 +22,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,mongodb,mysql,postgresql,html,css,js,php,linux,vscode,ps" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,mongodb,mysql,postgresql,html,css,js,linux,vscode,ps" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSaadoun&layout=compact&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSaadoun&layout=compact&theme=radical)-->
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraSaadoun&show_icons=true&theme=radical)
 
