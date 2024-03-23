@@ -1,31 +1,36 @@
 <br>
 <h1 align="center">Hello &#128075;, I'm Sara Hamza </h1>
 
+<p align = "center">✨A little progress each day adds up to big results✨</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;ACPC+Finalist;Competitive+Programmer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+CE+Student;ACPC+Finalist;ML+Enthusiast;Competitive+Programmer">
 </p>
 
 <h2 ><span style="font-size:30px;">&#127775; </span> About Me</h2>
 <br>
 <p >
-🎓 I'm a Computer Engineering Student @ TU.
+🎓 I'm a Senior Computer Engineering Student @ TU.
 <br>
 💥 competitive programmer on different platforms such as Codeforces, and LeetCode.
 <br>
-💻 Interested in Backend Development.
-<br>
 🌠 ML and Data Science Enthusiast.
-
+<!-- <br> -->
+<!-- 💻 Curious about learning new technologies -->
 <br>
-
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<h3 align="center">AI tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,mongodb,mysql,postgresql,html,css,js,linux,vscode,ps" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,pycharm" />
   </a>
 </p>
-
+<h3 align="center">Other technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,go,mongodb,mysql,postgresql,html,css,js,nodejs,rabbitmq,linux,vscode,androidstudio" />
+  </a>
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -51,5 +56,4 @@
 
 
 </p>
-<p align = "center">✨A little progress each day adds up to big results✨</p>
 <br>
