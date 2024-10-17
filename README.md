@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 **Passionate about learning and sharing knowledge**  
 &nbsp;&nbsp;&nbsp;&nbsp;📚 **Currently expanding my expertise in data science**  
 &nbsp;&nbsp;&nbsp;&nbsp;🏆 **ACPC Finalist**  
-
+&nbsp;&nbsp;&nbsp;&nbsp;💫 لا أكف عن الأمل
 
 <br>
 
