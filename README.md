@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=25&center=true&pause=10&duration=4000true&vCenter=true&width=600&height=150&multiline=true&lines=AI/ML+Engineer;Computer+Engineering+Graduate;ACPC+Finalist;Ex-STEM;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F33083&size=20&center=true&pause=10&duration=4000true&vCenter=true&width=600&height=150&multiline=true&lines=AI/ML+Engineer;Computer+Engineering+Graduate;ACPC+Finalist;Ex-STEM;">
 </p>
 
-<h3 align="center">⚡ GitHub Stats</h3>
+<h2 align="center">⚡ GitHub Stats</h2>
 
 ## 
 
